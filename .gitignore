@@ -1,0 +1,12 @@
+# Runtime data (real)
+people.json
+events.jsonl
+
+# OS / editor noise
+.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
