@@ -21,6 +21,7 @@ The tool pairs with:
 
 * *Networking Workflow v4.2* (frozen)
 * *Snippet Set v1.0* (frozen)
+* *people-tracker* (github)
 
 ---
 
@@ -269,4 +270,4 @@ If your chat rate sits consistently in the 8–12% band, the system is working. 
 
 ## License
 
-Use, modify, and adapt freely for personal workflows.
+MIT
