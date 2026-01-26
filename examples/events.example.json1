@@ -1,0 +1,8 @@
+{"ts":"2026-01-15T09:31:00Z","person_id":"jdoe","event":"connection_requested","meta":{}}
+{"ts":"2026-01-16T10:02:00Z","person_id":"jdoe","event":"connection_accepted","meta":{}}
+{"ts":"2026-01-16T10:05:00Z","person_id":"jdoe","event":"legibility_sent","meta":{"snippet":"L1"}}
+{"ts":"2026-01-18T08:20:00Z","person_id":"jdoe","event":"question_sent","meta":{"q":"Q3"}}
+{"ts":"2026-01-19T17:45:00Z","person_id":"jdoe","event":"reply_received","meta":{}}
+{"ts":"2026-01-20T11:10:00Z","person_id":"jdoe","event":"call_ask_sent","meta":{"snippet":"C1c"}}
+{"ts":"2026-01-20T11:25:00Z","person_id":"jdoe","event":"call_agreed","meta":{}}
+{"ts":"2026-01-22T09:00:00Z","person_id":"jdoe","event":"call_completed","meta":{}}
